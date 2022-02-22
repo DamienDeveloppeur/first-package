@@ -1,0 +1,6 @@
+<?php
+
+require "vendor/autoload.php";
+
+$inspire = new \Cours\PackageComposer\Inspire;
+echo $inspire->displayInspiration()."\n";
