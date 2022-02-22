@@ -1,7 +1,7 @@
 {
     "name": "coursmicroservice/project-composer",
     "type": "library",
-    "description": "Ur an idiot",
+    "description": "Done at school, nothing to usefull",
     "license": "mit",
     "autoload": {
         "psr-4": {
