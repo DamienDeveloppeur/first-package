@@ -2,5 +2,5 @@
 
 require "vendor/autoload.php";
 
-$inspire = new \Cours\PackageComposer\Inspire;
+$inspire = new \Coursmicroservice\ProjectComposer\Inspire;
 echo $inspire->displayInspiration()."\n";

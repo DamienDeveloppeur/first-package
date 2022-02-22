@@ -1,6 +1,6 @@
 <?php
 
-namespace Cours\PackageComposer;
+namespace Coursmicroservice\ProjectComposer;
 
 class Inspire {
     public function __construct(){
